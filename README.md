@@ -1,6 +1,6 @@
 # SIG UX
 
-Home for SIG user experience discussion and materials.
+Home for [SIG user experience](https://www.jenkins.io/sigs/ux/) discussion and materials.
 
 ## Join us!
 
