@@ -1,4 +1,4 @@
-# SIG UX
+![Sig UX Logo](assets/logo.svg)
 
 Home for [SIG user experience](https://www.jenkins.io/sigs/ux/) discussion and materials.
 
